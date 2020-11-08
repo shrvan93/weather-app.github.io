@@ -5,7 +5,7 @@
   "description": "Weather app using Vue.js, OpenWeatherMap.",
   "author": "SHRVAN ABOSH",
   "license": "MIT",
-  "homepage": "https://shrvan93.github.io/weather-app",
+  "homepage": "https://shrvan93.github.io/weather-app/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
