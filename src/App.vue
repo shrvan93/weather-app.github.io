@@ -10,7 +10,7 @@
     </transition>
     <WeatherAnimate />
     <div class="footer-text">
-      <a href="" target="_blank" class="link">
+      <a href="https://github.com/shrvan93/weather-app" target="_blank" class="link">
         <GithubIcon size="1x"></GithubIcon>
         <span>Final Exam</span>
       </a>
