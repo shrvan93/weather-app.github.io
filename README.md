@@ -20,5 +20,5 @@ npm run build
 ```
 npm run lint
 ```
-
+Live Demo https://shrvan93.github.io/weather-app/
 
